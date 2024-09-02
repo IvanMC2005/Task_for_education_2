@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1713300541 source:c:\c++\tasks\siodpr2\main.cpp
+	"header.h"
+
+1712707255 c:\c++\tasks\siodpr2\header.h
+	<string>
+	<functional>
+	<iostream>
+	<fstream>
+	<algorithm>
+	<locale>
+	<functional>
+
+1713299803 source:c:\c++\tasks\siodpr2\source.cpp
+	"header.h"
+
